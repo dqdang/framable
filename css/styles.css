@@ -10125,14 +10125,14 @@ header.masthead h1 {
   }
 }
 
-#portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl {
+#technologies .container-fluid, #technologies .container-sm, #technologies .container-md, #technologies .container-lg, #technologies .container-xl {
   max-width: 1920px;
 }
-#portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box {
+#technologies .container-fluid .technologies-box, #technologies .container-sm .technologies-box, #technologies .container-md .technologies-box, #technologies .container-lg .technologies-box, #technologies .container-xl .technologies-box {
   position: relative;
   display: block;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption, #portfolio .container-sm .portfolio-box .portfolio-box-caption, #portfolio .container-md .portfolio-box .portfolio-box-caption, #portfolio .container-lg .portfolio-box .portfolio-box-caption, #portfolio .container-xl .portfolio-box .portfolio-box-caption {
+#technologies .container-fluid .technologies-box .technologies-box-caption, #technologies .container-sm .technologies-box .technologies-box-caption, #technologies .container-md .technologies-box .technologies-box-caption, #technologies .container-lg .technologies-box .technologies-box-caption, #technologies .container-xl .technologies-box .technologies-box-caption {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10148,16 +10148,16 @@ header.masthead h1 {
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category {
+#technologies .container-fluid .technologies-box .technologies-box-caption .project-category, #technologies .container-sm .technologies-box .technologies-box-caption .project-category, #technologies .container-md .technologies-box .technologies-box-caption .project-category, #technologies .container-lg .technologies-box .technologies-box-caption .project-category, #technologies .container-xl .technologies-box .technologies-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name {
+#technologies .container-fluid .technologies-box .technologies-box-caption .project-name, #technologies .container-sm .technologies-box .technologies-box-caption .project-name, #technologies .container-md .technologies-box .technologies-box-caption .project-name, #technologies .container-lg .technologies-box .technologies-box-caption .project-name, #technologies .container-xl .technologies-box .technologies-box-caption .project-name {
   font-size: 1.2rem;
 }
-#portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption {
+#technologies .container-fluid .technologies-box:hover .technologies-box-caption, #technologies .container-sm .technologies-box:hover .technologies-box-caption, #technologies .container-md .technologies-box:hover .technologies-box-caption, #technologies .container-lg .technologies-box:hover .technologies-box-caption, #technologies .container-xl .technologies-box:hover .technologies-box-caption {
   opacity: 1;
 }
 
