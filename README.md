@@ -1,2 +1,2 @@
 # framable
-Learn frameworks with yours truly
+Learn frameworks
